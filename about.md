@@ -1,33 +1,35 @@
 ---
 layout: page
-title: About Monochrome
-description: This page describes monochrome.
+title: Codemonkeyz.com
+description: About
 ---
-## About
-Monochrome is a minimal, responsive theme created for Jekyll. The goal of Monochrome is to provide a ready to use, plug and play theme for those who want to set up a blog, and focus solely on the content.
+## About Codemonkeyz
 
-## Features
+Codemonkeyz.com is a blog I've been waiting to write for a while now.
+It contains my thoughts, opinions, and various musings on everything from coding, to management to coffee.
 
-- Completely responsive and mobile first
-- Clean SEO friendly URLs, auto-generated from post title (no messy dates in the url)
-- SEO title/description integration
-- Sitemap ready
-- Easy customization for header, footer, navigation links, colors, favicon etc
-- Default Monochrome Color Palette - black, white, greys
+## About me
 
-### Setup
+I'm Daniel, I live in Tel Aviv Israel with my wife.
+I'm an entrepreneur, a software developer and a huge coffee geek.
+I programmed my first program in DOS QBasic back in 1995. Since then on continued onto Visual Basic and C/C++ on Windows 3.1. Right now I'm comfortable with pretty much every language out there, provided that it's open source.
+While I do love computers, I do find the people that hack on them every day super interesting. In the art of software development, proper management is a somewhat neglected topic which I intend this blog to change (as much as I can).
 
-Monochrome may be installed by simply downloading the .zip folder from the [repository on Github](https://github.com/thereviewindex/monochrome/archive/master.zip).
+Stuff I did professionally - 
 
-After extracting the content from the folder into the selected directory, you can type ``jekyll serve`` from the terminal, than open your browser to ``0.0.0.0:4000/monochrome/`` and you will find it there.
-
-Additionally it is possible to fork the repository and use Github Pages as hosting. By following this way it will be enough to change the ``baseurl`` value into the ``_config.yml`` file, with the directory name of your project (for example /blog) or simply with a "/" (slash) if you want install Monochrome in the root. 
-
+* Work on incredibly complex code for the army
+* Maintain the backend for a 100M user service all by myself 
+* Become a freelance consultant and work with dozens of companies on improving their code and processes
+* Start my own company (and eventually sell it)
 
 
-For further details on Monochrome, please visit the [repository on Github](https://github.com/thereviewindex/monochrome/).
+## About the name
 
-![Monochrome](img/monochrome01.png "monochrome")
+Origin of the name is reserved to the ones who appreciate the 80's.
+
+## Other
+
+My GitHub [account](https://github.com/danielshir/) and Twitter [account](https://www.twitter.com/shirzor/)
 
 
 
