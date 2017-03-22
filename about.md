@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Codemonkeyz.com
+title: About
 description: About
 ---
-## About Codemonkeyz
+## About codemonkeyz
 
-Codemonkeyz.com is a blog I've been waiting to write for a while now.
+codemonkeyz.com is a blog I've been waiting to write for a while now.
 It contains my thoughts, opinions, and various musings on everything from coding, to management to coffee.
 
 ## About me
