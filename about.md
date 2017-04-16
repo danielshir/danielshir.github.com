@@ -6,7 +6,9 @@ description: About
 ## About codemonkeyz
 
 codemonkeyz.com is a blog I've been waiting to write for a while now.
-It contains my thoughts, opinions, and various musings on everything from coding, to management to coffee.
+It contains my thoughts, opinions, and various musings on everything from coding, to management to coffee. 
+
+Any opinions expressed are solely my own and do not express the views or opinions of my employer. Co-writers incorporated herein by reference and their opinions are also their own and do not express the views or opinions of their employers.
 
 ## About me
 
@@ -26,7 +28,7 @@ Stuff I did professionally -
 
 ## About the name
 
-Origin of the name is reserved to the ones who appreciate the 80's.
+Special reward to anyone who can email me with the actual origin :)
 
 ## Other
 
