@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Why write about software management'
-date: '2017-05-26 10:14:00 +0000'
+date: '2017-05-26 10:14:00 +0300'
 categories: software management
 ---
 
