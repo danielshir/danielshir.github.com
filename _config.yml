@@ -39,4 +39,8 @@ custom_header: false
 custom_nav_footer: false
 reverse: false
 
+jekyll-crosspost_to_medium:
+  enabled: true
+  text: '<p><i>This was originally posted on <a href="http://codemonkeyz.com">codemonkeyz.com</a></i></p>' 
+
 google_analytics: UA-97378945-1
