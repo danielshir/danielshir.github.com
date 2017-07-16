@@ -3,6 +3,7 @@ layout: post
 title: "Programmer's time - part 1"
 date: '2017-07-16 18:43:00 +0300'
 categories: software management
+crosspost_to_medium: true
 ---
 
 I’ve dealt with a lot of tech companies over the course of my career and I’ve noticed something unique about the successful ones. There’s a strong correlation between being a successful company and several various traits like quick product development and attracting top talent. There’s several key elements of these companies’ cultures that just make them stand out. One of the biggest common denominators that I’ve witnessed is how the company treats its employees’ time, and more specifically for this post, its programmers’ time.
