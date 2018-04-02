@@ -3,7 +3,7 @@ layout: post
 title: "The Team Asymmetry Fallacy"
 date: '2018-04-02 12:47:00 +0300'
 categories: software management
-crosspost_to_medium: false
+crosspost_to_medium: true
 ---
 
 Teams need to work with each other to get work done, there’s no question about that. When it comes to a large scale software project, usually multiple teams are involved and team cooperation is key to getting the product out of the door. In every organization there are bound to be several types of teams. Some teams are considered quite adept and strong, while others may be simply balanced, but some teams (and this is true for every organization I’ve seen) are deemed weak and less effective than most. This blog post however isn’t about that fact, but rather how it is often dealt with.
