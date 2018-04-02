@@ -17,27 +17,14 @@ For all intents and purposes, I’m assuming that we must accept the current tea
 First, let’s go over what characterizes a team as either strong or weak. Here are some basic identifying characteristics:
 
 
-Team
-Strong
-Weak
-Division of labor
-Efficient
-Inefficient
-Scheduling
-Tight, precise
-Lacking organization
-Handling of arising problems
-Effective
-Ineffective, throws team into mayhem
-Work rate
-Productive
-Mediocre
-Scope changes
-Adept at making changes
-Changes require a lot of synchronization from all team members
-Supervision
-Autonomous
-Constant hand holding
+|Category|Strong Team|Weak Team|
+|-------|--------|---------|
+|Division of labor|Efficient|Inefficient|
+|Scheduling|Tight, precise|Lacking organization|
+|Handling of arising problems|Effective|Ineffective, throws team into mayhem|
+Work rate|Productive|Mediocre|
+|Scope changes|Adept at making changes|Changes require a lot of synchronization from all team members|
+|Supervision|Autonomous|Constant hand holding|
 
 
 Now, let’s also imagine that we need to work on two projects, which we’ll appropriately call Project A and Project B. Both projects have a similar workload, an identical level of importance, and each requires two teams’ worth of full time attention. How should work be split across all four teams?
