@@ -1,11 +1,11 @@
 # Site settings
 title: codemonkeyz | Coding & Life
 description: "A simple blog about code, software team management, entrepreneurship and coffee"
-url: "http://codemonkeyz.com"
+url: "https://codemonkeyz.com"
 author:
   name: "Daniel Shir"
   email: "daniel@codemonkeyz.com"
-  url: "http://codemonkeyz.com"
+  url: "https://codemonkeyz.com"
 
 # Build settings
 baseurl:  # Change this to your relative path (ex: /blog/), or leave just a /
@@ -41,6 +41,6 @@ reverse: false
 
 jekyll-crosspost_to_medium:
   enabled: true
-  text: '<p><i>This was originally posted on <a href="http://codemonkeyz.com">codemonkeyz.com</a></i></p>' 
+  text: '<p><i>This was originally posted on <a href="https://codemonkeyz.com">codemonkeyz.com</a></i></p>' 
 
 google_analytics: UA-97378945-1
